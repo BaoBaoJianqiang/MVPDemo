@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestMVVM</string>
+    <string name="title_activity_person">PersonActivit</string>
+</resources>
